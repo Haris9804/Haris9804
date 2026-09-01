@@ -69,6 +69,8 @@ Highlights: built SIEM correlation rules in ELK Stack to detect credential stuff
 
 ### 🏁 TryHackMe Progress
 
+*70 rooms completed as of September 2026.*
+
 | # | Room | Difficulty | Category |
 |---|------|------------|----------|
 | 1 | [Basic Pentesting](https://tryhackme.com/room/basicpentesting) | 🟢 Easy | Web / Privilege Escalation |
@@ -85,6 +87,62 @@ Highlights: built SIEM correlation rules in ELK Stack to detect credential stuff
 | 12 | [SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam) | 🟢 Easy | SOC / Blue Team |
 | 13 | [OWASP Top 10 2025: IAAA Failures](https://tryhackme.com/room/owasptop10) | 🟢 Easy | Web Application Security |
 | 14 | [WAF: Introduction](https://tryhackme.com/room/wafintroduction) | 🟢 Easy | Web / Defense |
+| 15 | Inside a Computer System | 🟢 Easy | Fundamentals |
+| 16 | Defensive Security Intro | 🟢 Easy | Blue Team |
+| 17 | What is Networking? | 🔵 Info | Networking |
+| 18 | Intro to LAN | 🟢 Easy | Networking |
+| 19 | Operating System Security | 🟢 Easy | Fundamentals |
+| 20 | Virtualisation Basics | 🟢 Easy | Fundamentals |
+| 21 | Operating Systems: Introduction | 🟢 Easy | Fundamentals |
+| 22 | Linux CLI Basics | 🟢 Easy | Linux |
+| 23 | Data Representation | 🟢 Easy | Fundamentals |
+| 24 | Data Encoding | 🟢 Easy | Fundamentals |
+| 25 | JavaScript: Simple Demo | 🟠 Medium | Programming |
+| 26 | Python: Simple Demo | 🟢 Easy | Programming |
+| 27 | Windows Basics | 🟢 Easy | Windows |
+| 28 | Cloud Computing Fundamentals | 🟢 Easy | Fundamentals |
+| 29 | Windows CLI Basics | 🟢 Easy | Windows |
+| 30 | Database SQL Basics | 🟢 Easy | Web Application Security |
+| 31 | Client-Server Basics | 🟢 Easy | Networking |
+| 32 | Computer Types | 🟢 Easy | Fundamentals |
+| 33 | Linux Fundamentals Part 2 | 🔵 Info | Linux |
+| 34 | How Websites Work | 🟢 Easy | Web / Fundamentals |
+| 35 | Linux Fundamentals Part 3 | 🔵 Info | Linux |
+| 36 | Putting it all together | 🟢 Easy | Fundamentals |
+| 37 | DNS in Detail | 🟢 Easy | Networking |
+| 38 | HTTP in Detail | 🟢 Easy | Web / Networking |
+| 39 | OSI Model | 🔵 Info | Networking |
+| 40 | Packets & Frames | 🔵 Info | Networking |
+| 41 | Extending Your Network | 🟢 Easy | Networking |
+| 42 | The CIA Triad | 🟢 Easy | Fundamentals |
+| 43 | Cryptography Concepts | 🟢 Easy | Cryptography |
+| 44 | Become a Hacker | 🟢 Easy | Offensive Security |
+| 45 | Become a Defender | 🟢 Easy | Blue Team |
+| 46 | Search Skills | 🟢 Easy | Fundamentals |
+| 47 | Careers in Cyber | 🟢 Easy | Fundamentals |
+| 48 | Windows Fundamentals 1 | 🔵 Info | Windows |
+| 49 | Windows Fundamentals 2 | 🔵 Info | Windows |
+| 50 | Windows Fundamentals 3 | 🔵 Info | Windows |
+| 51 | Wireshark: The Basics | 🟢 Easy | Networking / Tools |
+| 52 | Active Directory Basics | 🟢 Easy | Windows |
+| 53 | Moniker Link (CVE-2024-21413) | 🟢 Easy | Web Application Security |
+| 54 | Windows Command Line | 🟢 Easy | Windows |
+| 55 | Nmap: The Basics | 🟢 Easy | Offensive Tools |
+| 56 | Tcpdump: The Basics | 🟢 Easy | Networking / Tools |
+| 57 | Networking Essentials | 🟢 Easy | Networking |
+| 58 | Networking Core Protocols | 🟢 Easy | Networking |
+| 59 | Networking Secure Protocols | 🟢 Easy | Networking |
+| 60 | Public Key Cryptography Basics | 🟢 Easy | Cryptography |
+| 61 | Windows PowerShell | 🟢 Easy | Windows |
+| 62 | Linux Shells | 🟢 Easy | Linux |
+| 63 | Web Application Basics | 🟢 Easy | Web Application Security |
+| 64 | Hydra | 🟢 Easy | Offensive Tools |
+| 65 | John the Ripper: The Basics | 🟢 Easy | Offensive Tools |
+| 66 | Metasploit: Exploitation | 🟢 Easy | Offensive Tools |
+| 67 | Metasploit: Introduction | 🟢 Easy | Offensive Tools |
+| 68 | Metasploit: Meterpreter | 🟢 Easy | Offensive Tools |
+| 69 | Hashing Basics | 🟢 Easy | Cryptography |
+| 70 | Defensive Security Intro | 🟢 Easy | Blue Team |
 
 *Full write-ups in [TryHackMe-Writeups](https://github.com/Haris9804/TryHackMe-Writeups).*
 
